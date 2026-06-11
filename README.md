@@ -1,7 +1,7 @@
 #New project
 
 This project was created from syste
-created by ritika
+created by ritika.
 
 
 
